@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=BlackArch-Dark
+Comment=A Material Design theme for BlackArch Linux based on ocean colours
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=BlackArch-Dark
+MetacityTheme=BlackArch-Dark
+IconTheme=BlackArch-Dark
+CursorTheme=BlackArch-Dark
+CursorSize=24
