@@ -1,0 +1,10 @@
+[Trigger]
+Type = Package
+Operation = Install
+Target = *
+
+[Action]
+Description = Generating Menu Items...
+When = PostTransaction
+Exec = /etc/pacman.d/scripts/ba-gen-desktop.sh gen
+NeedsTargets

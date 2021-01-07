@@ -1,0 +1,10 @@
+[Trigger]
+Type = Package
+Operation = Remove
+Target = *
+
+[Action]
+Description = Removing Unnecessary Menu Items...
+When = PostTransaction
+Exec = /etc/pacman.d/scripts/ba-gen-desktop.sh rm
+NeedsTargets
