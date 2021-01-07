@@ -6,12 +6,6 @@ BlackArch Linux configuration files for the xfce desktop environment.
 
 `pacman -S blackarch-config-xfce`
 
-## Configuration
-
-Copy the following files:
-
-1. `cp -a /usr/share/blackarch/config/xfce/* /usr/share/themes/blackarch-xfce`
-
 ## Get Involved
 
 You can get in touch with the BlackArch Linux team. Just check out the following:
