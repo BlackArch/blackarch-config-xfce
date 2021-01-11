@@ -1,7 +1,7 @@
 favorites=firefox.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
 recent=
-button-title=Menu\ 
-button-icon=/root/.config/xfce4/panel/logo.png
+button-title=Menu
+button-icon=distributor-logo-blackarch
 button-single-row=false
 show-button-title=true
 show-button-icon=true
