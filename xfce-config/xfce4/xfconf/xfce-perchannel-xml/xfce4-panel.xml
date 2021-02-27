@@ -34,7 +34,7 @@
         <value type="double" value="1.000000"/>
       </property>
       <property name="disable-struts" type="bool" value="false"/>
-      <property name="background-image" type="string" value="/usr/share/themes/blackarch-xfce/xfwm4/bottom-active.png"/>
+      <property name="background-image" type="string" value="/usr/share/themes/blackarch-xfce/xfwm4/panel.png"/>
     </property>
   </property>
   <property name="plugins" type="empty">
