@@ -27,9 +27,10 @@ MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
 ScrollingUnlimited=TRUE
-ColorBackground=#1D20300a1111
+ColorBackground=#000000000000
 FontName=Liberation Mono 10
 ColorPalette=rgb(0,0,0);rgb(170,0,0);rgb(0,170,0);rgb(170,85,0);rgb(15,152,243);rgb(170,0,170);rgb(0,170,170);rgb(170,170,170);rgb(85,85,85);rgb(255,85,85);rgb(24,160,250);rgb(24,160,250);rgb(24,160,250);rgb(255,85,255);rgb(24,160,250);rgb(255,255,255)
 ColorForeground=#ccccd2d2dddd
 ScrollingBar=TERMINAL_SCROLLBAR_NONE
-
+BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
+BackgroundDarkness=0.900000
